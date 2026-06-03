@@ -8,3 +8,11 @@ auto-*.d.ts
 .idea
 .history
 output/
+
+# AI
+.agents
+.claude
+.codex
+.cursor
+.gemini
+.opencode
